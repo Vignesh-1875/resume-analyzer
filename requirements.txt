@@ -1,0 +1,11 @@
+streamlit>=1.38
+pymongo[srv]>=4.8
+bcrypt>=4.1
+pypdf>=4.3
+transformers>=4.44
+torch>=2.3
+accelerate>=0.33
+sentence-transformers>=3.0
+python-dotenv>=1.0
+pytest>=8.0
+# Optional (4-bit on GPU / LoRA later): bitsandbytes peft trl datasets
